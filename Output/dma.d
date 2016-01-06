@@ -1,0 +1,15 @@
+..\..\output\dma.o: ..\..\User\dma.c
+..\..\output\dma.o: ..\..\User\dma.h
+..\..\output\dma.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\dma.o: ..\..\Lib\CMSIS\core_cm3.h
+..\..\output\dma.o: D:\Keil5.14\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\dma.o: ..\..\Lib\CMSIS\system_stm32f10x.h
+..\..\output\dma.o: ..\..\User\stm32f10x_conf.h
+..\..\output\dma.o: ..\..\Lib\inc\stm32f10x_adc.h
+..\..\output\dma.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\dma.o: ..\..\Lib\inc\stm32f10x_dma.h
+..\..\output\dma.o: ..\..\Lib\inc\stm32f10x_gpio.h
+..\..\output\dma.o: ..\..\Lib\inc\stm32f10x_rcc.h
+..\..\output\dma.o: ..\..\Lib\inc\stm32f10x_usart.h
+..\..\output\dma.o: ..\..\Lib\inc\misc.h
+..\..\output\dma.o: ..\..\User\adc.h

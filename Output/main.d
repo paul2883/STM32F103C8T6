@@ -1,0 +1,17 @@
+..\..\output\main.o: ..\..\User\main.c
+..\..\output\main.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\main.o: ..\..\Lib\CMSIS\core_cm3.h
+..\..\output\main.o: I:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\main.o: ..\..\Lib\CMSIS\system_stm32f10x.h
+..\..\output\main.o: ..\..\User\stm32f10x_conf.h
+..\..\output\main.o: ..\..\Lib\inc\stm32f10x_gpio.h
+..\..\output\main.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\main.o: ..\..\Lib\inc\stm32f10x_rcc.h
+..\..\output\main.o: ..\..\Lib\inc\stm32f10x_spi.h
+..\..\output\main.o: ..\..\Lib\inc\stm32f10x_usart.h
+..\..\output\main.o: ..\..\User\led.h
+..\..\output\main.o: ..\..\User\usart1.h
+..\..\output\main.o: I:\Keil\ARM\ARMCC\Bin\..\include\stdarg.h
+..\..\output\main.o: ..\..\User\SysTick.h
+..\..\output\main.o: I:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\main.o: ..\..\User\spi.h

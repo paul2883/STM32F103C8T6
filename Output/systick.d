@@ -1,0 +1,12 @@
+..\..\output\systick.o: ..\..\User\SysTick.c
+..\..\output\systick.o: ..\..\User\SysTick.h
+..\..\output\systick.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\systick.o: ..\..\Lib\CMSIS\core_cm3.h
+..\..\output\systick.o: I:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\systick.o: ..\..\Lib\CMSIS\system_stm32f10x.h
+..\..\output\systick.o: ..\..\User\stm32f10x_conf.h
+..\..\output\systick.o: ..\..\Lib\inc\stm32f10x_gpio.h
+..\..\output\systick.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\systick.o: ..\..\Lib\inc\stm32f10x_rcc.h
+..\..\output\systick.o: ..\..\Lib\inc\stm32f10x_spi.h
+..\..\output\systick.o: ..\..\Lib\inc\stm32f10x_usart.h

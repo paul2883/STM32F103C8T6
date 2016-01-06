@@ -1,0 +1,12 @@
+..\..\output\pwm_output.o: ..\..\User\pwm_output.c
+..\..\output\pwm_output.o: ..\..\User\pwm_output.h
+..\..\output\pwm_output.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\pwm_output.o: ..\..\Lib\CMSIS\core_cm3.h
+..\..\output\pwm_output.o: D:\Keil5.14\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\pwm_output.o: ..\..\Lib\CMSIS\system_stm32f10x.h
+..\..\output\pwm_output.o: ..\..\User\stm32f10x_conf.h
+..\..\output\pwm_output.o: ..\..\Lib\inc\stm32f10x_gpio.h
+..\..\output\pwm_output.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\pwm_output.o: ..\..\Lib\inc\stm32f10x_i2c.h
+..\..\output\pwm_output.o: ..\..\Lib\inc\stm32f10x_rcc.h
+..\..\output\pwm_output.o: ..\..\Lib\inc\stm32f10x_usart.h

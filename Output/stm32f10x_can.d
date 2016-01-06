@@ -1,0 +1,12 @@
+..\..\output\stm32f10x_can.o: ..\..\Lib\src\stm32f10x_can.c
+..\..\output\stm32f10x_can.o: ..\..\Lib\inc\stm32f10x_can.h
+..\..\output\stm32f10x_can.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\stm32f10x_can.o: ..\..\Lib\CMSIS\core_cm3.h
+..\..\output\stm32f10x_can.o: I:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\stm32f10x_can.o: ..\..\Lib\CMSIS\system_stm32f10x.h
+..\..\output\stm32f10x_can.o: ..\..\User\stm32f10x_conf.h
+..\..\output\stm32f10x_can.o: ..\..\Lib\inc\stm32f10x_gpio.h
+..\..\output\stm32f10x_can.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\stm32f10x_can.o: ..\..\Lib\inc\stm32f10x_rcc.h
+..\..\output\stm32f10x_can.o: ..\..\Lib\inc\stm32f10x_spi.h
+..\..\output\stm32f10x_can.o: ..\..\Lib\inc\stm32f10x_usart.h

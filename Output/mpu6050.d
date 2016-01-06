@@ -1,0 +1,13 @@
+..\..\output\mpu6050.o: ..\..\User\MPU6050.c
+..\..\output\mpu6050.o: ..\..\User\MPU6050.h
+..\..\output\mpu6050.o: ..\..\User\HAL_MPU6050.h
+..\..\output\mpu6050.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\mpu6050.o: ..\..\Lib\CMSIS\core_cm3.h
+..\..\output\mpu6050.o: D:\Keil5.14\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\mpu6050.o: ..\..\Lib\CMSIS\system_stm32f10x.h
+..\..\output\mpu6050.o: ..\..\User\stm32f10x_conf.h
+..\..\output\mpu6050.o: ..\..\Lib\inc\stm32f10x_gpio.h
+..\..\output\mpu6050.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\mpu6050.o: ..\..\Lib\inc\stm32f10x_rcc.h
+..\..\output\mpu6050.o: ..\..\Lib\inc\stm32f10x_spi.h
+..\..\output\mpu6050.o: ..\..\Lib\inc\stm32f10x_usart.h

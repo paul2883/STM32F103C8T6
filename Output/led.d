@@ -1,0 +1,12 @@
+..\..\output\led.o: ..\..\User\led.c
+..\..\output\led.o: ..\..\User\led.h
+..\..\output\led.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\led.o: ..\..\Lib\CMSIS\core_cm3.h
+..\..\output\led.o: I:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\led.o: ..\..\Lib\CMSIS\system_stm32f10x.h
+..\..\output\led.o: ..\..\User\stm32f10x_conf.h
+..\..\output\led.o: ..\..\Lib\inc\stm32f10x_gpio.h
+..\..\output\led.o: ..\..\Lib\CMSIS\stm32f10x.h
+..\..\output\led.o: ..\..\Lib\inc\stm32f10x_rcc.h
+..\..\output\led.o: ..\..\Lib\inc\stm32f10x_spi.h
+..\..\output\led.o: ..\..\Lib\inc\stm32f10x_usart.h
